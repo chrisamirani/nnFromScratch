@@ -6,6 +6,7 @@ Created on Fri Nov 24 19:02:20 2017
 
 This is a single layer nn incorporating Hamming network to distinguish Apples and Oranges.
 """
+
 import numpy as np
 
 #this is the input data [shape,surface,heaviness]
